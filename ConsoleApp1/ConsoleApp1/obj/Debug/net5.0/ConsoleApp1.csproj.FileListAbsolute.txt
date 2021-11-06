@@ -1,0 +1,16 @@
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+G:\C#\C# start\HW1\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
