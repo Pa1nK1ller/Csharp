@@ -1,0 +1,16 @@
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.exe
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.deps.json
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.runtimeconfig.json
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.runtimeconfig.dev.json
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.dll
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\ref\HomeWork3_1.dll
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\bin\Debug\net5.0\HomeWork3_1.pdb
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.csproj.AssemblyReference.cache
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.AssemblyInfoInputs.cache
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.AssemblyInfo.cs
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.dll
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\ref\HomeWork3_1.dll
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.pdb
+G:\C#\C# start\HW3\HomeWork3\HomeWork3\obj\Debug\net5.0\HomeWork3_1.genruntimeconfig.cache
