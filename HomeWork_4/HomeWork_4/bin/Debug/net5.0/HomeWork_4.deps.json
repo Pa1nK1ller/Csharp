@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HomeWork_4/1.0.0": {
+        "dependencies": {
+          "LibToWorkWith2DimArray": "1.0.0",
+          "MyArrayLib": "1.0.0"
+        },
+        "runtime": {
+          "HomeWork_4.dll": {}
+        }
+      },
+      "LibToWorkWith2DimArray/1.0.0": {
+        "runtime": {
+          "LibToWorkWith2DimArray.dll": {}
+        }
+      },
+      "MyArrayLib/1.0.0": {
+        "runtime": {
+          "MyArrayLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibToWorkWith2DimArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyArrayLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

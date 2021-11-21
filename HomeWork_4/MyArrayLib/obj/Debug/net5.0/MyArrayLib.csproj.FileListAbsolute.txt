@@ -1,0 +1,11 @@
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\bin\Debug\net5.0\MyArrayLib.deps.json
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\bin\Debug\net5.0\MyArrayLib.dll
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\bin\Debug\net5.0\ref\MyArrayLib.dll
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\bin\Debug\net5.0\MyArrayLib.pdb
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.AssemblyInfoInputs.cache
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.AssemblyInfo.cs
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.dll
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\ref\MyArrayLib.dll
+G:\C#\C# start\HW4\HomeWork_4\MyArrayLib\obj\Debug\net5.0\MyArrayLib.pdb

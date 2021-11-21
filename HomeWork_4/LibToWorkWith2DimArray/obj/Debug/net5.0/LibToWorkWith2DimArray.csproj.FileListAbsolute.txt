@@ -1,0 +1,12 @@
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\bin\Debug\net5.0\LibToWorkWith2DimArray.deps.json
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\bin\Debug\net5.0\LibToWorkWith2DimArray.dll
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\bin\Debug\net5.0\ref\LibToWorkWith2DimArray.dll
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\bin\Debug\net5.0\LibToWorkWith2DimArray.pdb
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.csproj.AssemblyReference.cache
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.AssemblyInfoInputs.cache
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.AssemblyInfo.cs
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.dll
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\ref\LibToWorkWith2DimArray.dll
+G:\C#\C# start\HW4\HomeWork_4\LibToWorkWith2DimArray\obj\Debug\net5.0\LibToWorkWith2DimArray.pdb
