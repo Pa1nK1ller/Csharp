@@ -1,0 +1,16 @@
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.exe
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.deps.json
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.dll
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\ref\Task2.dll
+G:\C#\C# start\HW6\HomeWork6\Task2\bin\Debug\net5.0\Task2.pdb
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.dll
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\ref\Task2.dll
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.pdb
+G:\C#\C# start\HW6\HomeWork6\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
