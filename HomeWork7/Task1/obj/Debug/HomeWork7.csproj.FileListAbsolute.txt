@@ -1,0 +1,10 @@
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe.config
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.exe
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\bin\Debug\HomeWork7.pdb
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.AssemblyReference.cache
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.Properties.Resources.resources
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.GenerateResource.cache
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.exe
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.pdb
+G:\C#\C# start\HW7\HomeWork7\HomeWork7\obj\Debug\HomeWork7.Form1.resources

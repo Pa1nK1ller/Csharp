@@ -1,0 +1,8 @@
+G:\C#\C# start\HW7\HomeWork7\Task2\bin\Debug\Task2.exe.config
+G:\C#\C# start\HW7\HomeWork7\Task2\bin\Debug\Task2.exe
+G:\C#\C# start\HW7\HomeWork7\Task2\bin\Debug\Task2.pdb
+G:\C#\C# start\HW7\HomeWork7\Task2\obj\Debug\Task2.Properties.Resources.resources
+G:\C#\C# start\HW7\HomeWork7\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+G:\C#\C# start\HW7\HomeWork7\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW7\HomeWork7\Task2\obj\Debug\Task2.exe
+G:\C#\C# start\HW7\HomeWork7\Task2\obj\Debug\Task2.pdb
