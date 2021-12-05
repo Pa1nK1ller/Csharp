@@ -1,0 +1,10 @@
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.Properties.Resources.resources
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+G:\C#\C# start\HW8\HomeWork8\Task3\bin\Debug\Task3.exe.config
+G:\C#\C# start\HW8\HomeWork8\Task3\bin\Debug\Task3.exe
+G:\C#\C# start\HW8\HomeWork8\Task3\bin\Debug\Task3.pdb
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.exe
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.pdb
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+G:\C#\C# start\HW8\HomeWork8\Task3\obj\Debug\Task3.MainForm.resources
